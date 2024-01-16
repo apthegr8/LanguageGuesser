@@ -30,7 +30,6 @@ Examples you can test out:
 DEMO:
 
 
-![Demo Image](demo3.png)
 
 
 
