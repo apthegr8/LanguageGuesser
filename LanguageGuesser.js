@@ -1,3 +1,4 @@
+// LanguageGuesser.js
 import langs from 'langs';
 import { franc } from 'franc';
 
