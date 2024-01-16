@@ -30,7 +30,7 @@ Examples you can test out:
 DEMO:
 
 
-![Alt Text](url_to_your_image)
+could not upload file due to security issue
 
 
 Note: This is a node.js which cannot be deployed on Github
