@@ -23,6 +23,9 @@ Dependencies:
 - franc
 - langs
 
+DEMO:
+![Demo Image](demo3.png)
+
 
 
 Note: This project was created as part of a tutorial practice. This is a node.js which cannot be deployed on Github
