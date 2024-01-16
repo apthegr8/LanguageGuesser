@@ -26,17 +26,9 @@
 <body>
   <h1>Language Detector</h1>
   <input type="text" id="inputText" placeholder="Enter text...">
-  <button onclick="detectLanguage()">Detect Language</button>
+  <button id="detectButton">Detect Language</button>
   <div id="result"></div>
 
-  <script>
-    function detectLanguage() {
-      const inputText = document.getElementById('inputText').value;
-
-      // You can use an AJAX request to a server-side script here to perform language detection.
-      // For simplicity, I'll just display a message for demonstration purposes.
-      document.getElementById('result').innerText = `Detecting language for: ${inputText}`;
-    }
-  </script>
+  <script src="app.js"></script>
 </body>
 </html>
