@@ -20,9 +20,13 @@ Requirements:
 
 Dependencies:
 
-- franc
-- langs
-
+- franc (npm install franc)
+- langs (npm install langs)
+Add these libraries to project location and then run 'node LanguageGuesser.js -'<enter a language here>
+Examples you can test out:
+नमस्ते, कैसे हो आप?
+こんにちは、お元気ですか
+                                                                                                                                                                                                                                                                    مرحبًا، كيف حالك؟
 DEMO:
 
 
@@ -30,4 +34,4 @@ DEMO:
 
 
 
-Note: This project was created as part of a tutorial practice. This is a node.js which cannot be deployed on Github
+Note: This is a node.js which cannot be deployed on Github
